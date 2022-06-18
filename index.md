@@ -108,18 +108,14 @@ body {
 
  <select class="form-select" aria-label="Loại văn bản">
 		  <option selected>Chọn loại văn bản</option>
-		  <option value="1">One</option>
-		  <option value="2">Two</option>
-		  <option value="3">Three</option>
-		  <option value="4">Three</option>
-		  <option value="5">Three</option>
+		  <option value="Cai tự nguyện">One</option>
+		  <option value="Cai bắt buộc">Two</option>
+		  <option value="Sau cai tự nguyện">Three</option>
+		  <option value="Sau cai bắt buộc">Three</option>
 		</select>
    <br/>
-      <select class="form-select" aria-label="Default select example">
-		  <option selected>Open this select menu</option>
-		  <option value="1">One</option>
-		  <option value="2">Two</option>
-		  <option value="3">Three</option>
+      <select class="form-select" aria-label="Default select example" id="lstTemplate">
+		  <option selected>Chọn mẫu</option>
 		</select>
 	  <br/>
     <button class="w-100 btn btn-lg btn-primary" type="submit">Tải về</button>

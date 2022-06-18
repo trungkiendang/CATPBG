@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -122,7 +121,7 @@ body {
 		  <option value="2">Two</option>
 		  <option value="3">Three</option>
 		</select>
-
+	  <br/>
     <button class="w-100 btn btn-lg btn-primary" type="submit">Tải về</button>
     <p class="mt-5 mb-3 text-muted">&copy; Công An Thành phố Bắc Giang, 2022</p>
   </form>
